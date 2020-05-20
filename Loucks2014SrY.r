@@ -17,7 +17,7 @@ temp1<-list(
     )
 
 temp2<-list(
-text1=list("text",x=60,y=50,text="Fertile",col=plt.col[2],adj=0),
+text1=list("text",x=60,y=100,text="Fertile",col=plt.col[2],adj=0),
 text2=list("text",x=50,y=28,text="Non-fertile",col=plt.col[2],adj=0)
 )
 
