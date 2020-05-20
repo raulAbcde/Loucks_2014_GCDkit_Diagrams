@@ -3,7 +3,7 @@ GCDkit diagrams for Sr/Y and V/Sc used to assess magmatic fertility for Cu-porph
 
 ## Installation instructions
 
-Download and copy the files **Loucks2014SrY.r** and **Loucks2014VSc.r** in the following folder:
+Download and copy the files **Loucks2014SrY.r** and **Loucks2014VSc.r** into the following folder:
 
 **Windows:**
 ...\Documents\R\win-library\3.6\GCDkit\Diagrams\Classification\English
